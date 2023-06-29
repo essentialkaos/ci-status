@@ -64,3 +64,14 @@
 | [web-utils](https://kaos.sh/web-utils) | [![CI](https://kaos.sh/w/web-utils/ci.svg?branch=master)](https://kaos.sh/w/web-utils/ci?query=branch:master) [![CI](https://kaos.sh/w/web-utils/ci.svg?branch=develop)](https://kaos.sh/w/perfecto/ci?query=branch:develop) | — |
 | [yo](https://kaos.sh/yo) | [![CI](https://kaos.sh/w/yo/ci.svg?branch=master)](https://kaos.sh/w/yo/ci?query=branch:master) [![CI](https://kaos.sh/w/yo/ci.svg?branch=develop)](https://kaos.sh/w/perfecto/ci?query=branch:develop) | [![CodeQL](https://kaos.sh/w/yo/codeql.svg)](https://kaos.sh/w/perfecto/codeql) |
 | [zip7](https://kaos.sh/zip7) | [![CI](https://kaos.sh/w/zip7/ci.svg?branch=master)](https://kaos.sh/w/zip7/ci?query=branch:master) [![CI](https://kaos.sh/w/zip7/ci.svg?branch=develop)](https://kaos.sh/w/perfecto/ci?query=branch:develop) | [![CodeQL](https://kaos.sh/w/zip7/codeql.svg)](https://kaos.sh/w/perfecto/codeql) |
+
+### 🇨​​​​​🇩​​​​​ 🇸​​​​​🇹​​​​​🇦​​​​​🇹​​​​​🇺​​​​​🇸​​​​​
+
+| Project | CD |
+|---------:|----|
+| [alpine](https://kaos.sh/alpine) | [![CI](https://kaos.sh/w/alpine/cd.svg)](https://kaos.sh/w/alpine/cd) |
+| [centos](https://kaos.sh/centos) | [![CI](https://kaos.sh/w/centos/cd.svg)](https://kaos.sh/w/centos/cd) |
+| [oraclelinux](https://kaos.sh/oraclelinux) | [![CI](https://kaos.sh/w/oraclelinux/cd.svg)](https://kaos.sh/w/oraclelinux/cd) |
+| [ruby](https://kaos.sh/ruby) | [![CI](https://kaos.sh/w/ruby/cd.svg)](https://kaos.sh/w/ruby/cd) |
+
+<p align="center"><a href="https://essentialkaos.com"><img src="https://gh.kaos.st/ekgh.svg"/></a></p>
